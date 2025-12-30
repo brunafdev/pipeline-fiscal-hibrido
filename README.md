@@ -3,7 +3,7 @@
 > **Tecnologias:** Python, Power Automate, Power Query (M), AI Builder, Excel, Azure Data Lake.
 > **Status:** Em Produção (Fase de Expansão)
 
-### 🎯 O Desafio
+### O Desafio
 O processo de conferência fiscal (Nota Fiscal vs. Espelho de Nota/Pedido) era realizado manualmente, consumindo cerca de **3 dias úteis** da equipe. A complexidade aumentava devido à variação de layouts de NFS-e (Notas Fiscais de Serviço) entre diferentes prefeituras, o que inviabilizava automações tradicionais rígidas.
 
 ### 💡 A Solução: Arquitetura Híbrida
